@@ -2,3 +2,4 @@ hello world
 git modify
 push update
 fix wechat
+fix ali
